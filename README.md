@@ -9,10 +9,10 @@ https://user-images.githubusercontent.com/72432569/173106259-b2bfc241-9a53-48a1-
 ### Download the dataset  <a href=https://www.kaggle.com/paramaggarwal/fashion-product-images-dataset>Here</a>
 
 ## Step 2
-### Download the Embadings.pkl  <a href=https://drive.google.com/file/d/1yo4odhr0y7iadMcV6jDIearW2GeZBzrm/view?usp=sharing>Here</a>
+### Download the Embadings.pkl  <a href=https://drive.google.com/file/d/1yo4odhr0y7iadMcV6jDIearW2GeZBzrm/view >Here</a>
 
 ## Step 3
-### Download the Filenames.pkl  <a href=https://drive.google.com/file/d/1YnnsR45WFolyp86gvWFXf2rTajI_23sR/view?usp=sharing>Here</a>
+### Download the Filenames.pkl  <a href=https://drive.google.com/file/d/1YnnsR45WFolyp86gvWFXf2rTajI_23sR/view>Here</a>
 
 
 ## Step 4
